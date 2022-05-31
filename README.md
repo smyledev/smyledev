@@ -1,6 +1,6 @@
-### Hi there 👋
+### Добро пожаловать 👋
 
-#### Here some info about my works - https://smylebifa.github.io/
+#### Проекты - https://smylebifa.github.io/resume.html
 
 <!--
 **smylebifa/smylebifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
