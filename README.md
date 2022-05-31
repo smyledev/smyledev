@@ -1,6 +1,6 @@
-### Добро пожаловать 👋
+### Добро пожаловать на мой профиль 👋
 
-#### Проекты - https://smylebifa.github.io/resume.html
+#### Информация обо мне - https://smylebifa.github.io/resume.html
 
 <!--
 **smylebifa/smylebifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
