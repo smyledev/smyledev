@@ -1,13 +1,11 @@
 ### Hi and welocome to my profile 👋 
 
-My name is Ilia, i am beginner web and 1C developer
+My name is Ilia, i am beginner web developer
 
 My website - [Projects](https://smylebifa.github.io)
 
 <details>
   <summary>Show projects</summary>
-
-- Configurations, external processing, 1C manual - **[1C](https://github.com/smylebifa/1C)**
 
 - Creating an electronic digital signature, sending by mail and verifying the signature (ASP NET, MVC) - **[DigitalSignature](https://github.com/smylebifa/CreateAndSendSignatureByGmail)**
 
@@ -22,6 +20,8 @@ My website - [Projects](https://smylebifa.github.io)
 - Application for differentiating user rights and storing encrypted data (Qt, C++) - **[SecInf](https://github.com/smylebifa/SecInf2)**
 
 - Website for working with telegram groups (Perl) - **[WebTelegramBot](https://github.com/smylebifa/WebTelegramBot)** 
+
+- Configurations, external processing, 1C manual - **[1C](https://github.com/smylebifa/1C)**
 
 </details>
 
