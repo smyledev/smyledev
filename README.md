@@ -1,6 +1,6 @@
 ### Hi and welocome to my profile 👋 
 
-My name is Ilia, i am beginner web developer
+My name is Ilia, i am beginner web and 1C developer
 
 My website - [Projects](https://smylebifa.github.io)
 
