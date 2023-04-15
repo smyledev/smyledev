@@ -2,7 +2,28 @@
 
 My name is Ilia, i am beginner web developer
 
-My projects - [Projects](https://smylebifa.github.io/projects.html)
+My projects on website - [Projects](https://smylebifa.github.io/projects.html)
+
+<details>
+  <summary>Show projects</summary>
+
+- Configurations, external processing, 1C manual - **[1C](https://github.com/smylebifa/1C)**
+
+- Creating an electronic digital signature, sending by mail and verifying the signature (ASP NET, MVC) - **[DigitalSignature](https://github.com/smylebifa/CreateAndSendSignatureByGmail)**
+
+- API for working with exchange rates (ASP NET, Web API) - **[ExchangeRates](https://github.com/smylebifa/ExchangeRates)**
+
+- Problem solving from the Web (HTML, CSS, JS) - **[Web](https://github.com/smylebifa/SolutionsWeb)**
+
+- Web application for tracking user purchases (ASP NET, MVC, Swagger) and API for it - **[ProductsAccounting](https://github.com/smylebifa/ProductsAccounting)** , **[ProductAPI](https://github.com/smylebifa/ProductAPI)**
+
+- Android application - cryptography test (Kotlin) - **[CryptQuiz](https://github.com/smylebifa/CryptQuiz)**
+
+- Application for differentiating user rights and storing encrypted data (Qt, C++) - **[SecInf](https://github.com/smylebifa/SecInf2)**
+
+- Website for working with telegram groups (Perl) - **[WebTelegramBot](https://github.com/smylebifa/WebTelegramBot)** 
+
+</details>
 
 [![smylebifa GitHub stats](https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
