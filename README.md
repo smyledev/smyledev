@@ -1,6 +1,8 @@
-### Hi and welocome to my profile 👋 My name is Ilia, i am beginner web developer, u can see my projects link bellow
+### Hi and welocome to my profile 👋 
 
-#### [Main projects](https://smylebifa.github.io/projects.html)
+My name is Ilia, i am beginner web developer
+
+My projects - [Main projects](https://smylebifa.github.io/projects.html)
 
 [![smylebifa GitHub stats](https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
