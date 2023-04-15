@@ -2,7 +2,7 @@
 
 My name is Ilia, i am beginner web developer
 
-My website - [Projects](https://smylebifa.github.io)
+My website - [smyleibfa](https://smylebifa.github.io)
 
 <details>
   <summary>Show projects</summary>
