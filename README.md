@@ -1,4 +1,4 @@
-### Hi and welocome to my profile :smile: My name is Ilia, i am beginner web developer
+### Hi and welocome to my profile 👋: My name is Ilia, i am beginner web developer
 
 #### [Основные проекты](https://smylebifa.github.io/projects.html)
 
