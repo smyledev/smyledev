@@ -13,7 +13,7 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 - Problem solving from the Web (HTML, CSS, JS) - **[Web](https://github.com/smylebifa/SolutionsWeb)**
 
-- Web application for tracking user purchases (ASP NET, MVC, Swagger) - **[ProductsAccounting](https://github.com/smylebifa/ProductsAccounting)**
+- Web application for tracking user purchases (ASP NET, MVC) - **[ProductsAccounting](https://github.com/smylebifa/ProductsAccounting)**
   
 - Android application - cryptography test (Kotlin) - **[CryptQuiz](https://github.com/smylebifa/CryptQuiz)**
 
