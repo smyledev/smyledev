@@ -1,4 +1,4 @@
-### Hi and welocome to my profile 👋 
+### Hi and welcome to my profile 👋 
 
 My name is Ilia, i am beginner web developer
 
