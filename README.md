@@ -13,6 +13,10 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 - API for working with exchange rates (ASP NET, Web API) - **[ExchangeRates](https://github.com/smylebifa/ExchangeRates)**
 
+- Web application for automating R&D processes (ASP NET, MVC) - **[RD2](https://github.com/smylebifa/RD2)** 
+
+- Web site created as a Decision Support System for scrintific centers and researchers (CMS WordPress, JS) - **[SNTR](https://github.com/smylebifa/SNTR)** 
+
 - Problem solving from the Web (HTML, CSS, JS) - **[Web](https://github.com/smylebifa/SolutionsWeb)**
 
 - Web application for tracking user purchases (ASP NET, MVC) - **[ProductsAccounting](https://github.com/smylebifa/ProductsAccounting)**
