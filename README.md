@@ -17,13 +17,13 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 - Web site created as a Decision Support System for scrintific centers and researchers (CMS WordPress, JS) - **[SNTR](https://github.com/smylebifa/SNTR)** 
 
-- Problem solving from the Web (HTML, CSS, JS) - **[Web](https://github.com/smylebifa/SolutionsWeb)**
-
 - Web application for tracking user purchases (ASP NET, MVC) - **[ProductsAccounting](https://github.com/smylebifa/ProductsAccounting)**
   
 - Android application - cryptography test (Kotlin) - **[CryptQuiz](https://github.com/smylebifa/CryptQuiz)**
 
 - Application for differentiating user rights and storing encrypted data (Qt, C++) - **[SecInf](https://github.com/smylebifa/SecInf2)**
+
+- Decisions of Web (HTML, CSS, JS) - **[Web](https://github.com/smylebifa/SolutionsWeb)**
 
 - Configurations, external processing, 1C manual - **[1C](https://github.com/smylebifa/1C)**
 
