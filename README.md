@@ -27,6 +27,8 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 - Configurations, external processing, 1C manual - **[1C](https://github.com/smylebifa/1C)**
 
+- Web site for working with telegram groups - **[WebTelegramBot]([https://github.com/smylebifa/1C](https://github.com/smylebifa/WebTelegramBot))** 
+
 </details>
 
 [![smylebifa GitHub stats](https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&theme=tokyonight)](https://github.com/smylebifa)
