@@ -17,7 +17,7 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 - Web site created as a Decision Support System for scrintific centers and researchers (CMS WordPress, JS) - **[SNTR](https://github.com/smylebifa/SNTR)** 
 
-- Web application for tracking user purchases (ASP NET, MVC) - **[ProductsAccounting](https://github.com/smylebifa/ProductsAccounting)**
+- Web application for tracking user purchases (ASP NET, MVC) - **[ProductsAccounting](https://github.com/smylebifa/ProductsAccounting)** and API (YML) - **[ProductAPI](https://github.com/smylebifa/ProductAPI)**  
   
 - Android application - cryptography test (Kotlin) - **[CryptQuiz](https://github.com/smylebifa/CryptQuiz)**
 
