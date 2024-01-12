@@ -3,8 +3,10 @@
 My name is Ilia, i'm beginner web developer. I’m currently looking for a job.
 
 <div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
+
+![](https://komarev.com/ghpvc/?username=smylebifa)
 
 <details>
   <summary>Show projects</summary>
@@ -32,8 +34,6 @@ My name is Ilia, i'm beginner web developer. I’m currently looking for a job.
 - Web site for working with telegram groups, using Perl - **[WebTelegramBot](https://github.com/smylebifa/WebTelegramBot)** 
 
 </details>
-
-![](https://komarev.com/ghpvc/?username=smylebifa)
 
 ### Technical Stack:
 * C# / ASP.NET MVC / WEB API / Windows Forms / WPF
