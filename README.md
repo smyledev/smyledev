@@ -33,6 +33,9 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 </details>
 
+
+### Github activity
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
