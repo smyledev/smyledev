@@ -34,7 +34,7 @@ My website - [smyleibfa](https://smylebifa.github.io)
 </details>
 
 ### Technical Stack:
-* C# / ASP.NET / MVC / WEB API / Windows Forms / WPF
+* C# / ASP.NET MVC / WEB API / Windows Forms / WPF
 * 1C
 * Python 
 * PHP / HTML / CSS / JS
