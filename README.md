@@ -35,9 +35,13 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 ### Technical Stack:
 * C# / ASP.NET MVC / WEB API / Windows Forms / WPF
-* 1C
-* Python 
-* PHP / HTML / CSS / JS
+* 1C УТ / 1C Бухгалтерия / 1C УНФ
+* PostgreSQL, MySQL, MS SQL 
+* PHP / Laravel / CMS WordPress
+* Java / Kotlin
+* HTML / CSS / JS
+* GitHub / GitLab
+* Python / ML
 
 ### Github activity:
 
