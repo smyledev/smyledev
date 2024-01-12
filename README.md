@@ -33,12 +33,16 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 </details>
 
-[![smylebifa GitHub stats](https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&theme=tokyonight)](https://github.com/smylebifa)
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
+  
+   <a href="https://github.com/smylebifa/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="smylebifa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&langs_count=4&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></a>
-
-[![smylebifa GitHub stats 2](http://github-readme-streak-stats.herokuapp.com/?user=smylebifa&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)](https://github.com/smylebifa)
-
+  
+</p>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/smylebifa/github-profile-views-counter">
