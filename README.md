@@ -2,8 +2,6 @@
 
 My name is ilia, i'm beginner web developer :computer: 
 
-I’m currently looking for a job :briefcase:
-
 <div>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
