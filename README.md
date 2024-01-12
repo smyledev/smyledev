@@ -8,6 +8,28 @@ My name is Ilia, i'm beginner web developer. I’m currently looking for a job.
 
 ![](https://komarev.com/ghpvc/?username=smylebifa)
 
+
+### Github activity:
+
+<p>
+   <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
+  
+   <a href="https://github.com/smylebifa/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight"/></a>
+</p>
+
+### Technical Stack:
+* C# / ASP.NET MVC / WEB API / Windows Forms / WPF
+* 1C УТ / 1C Бухгалтерия / 1C УНФ
+* PostgreSQL, MySQL, MS SQL 
+* PHP / Laravel / CMS WordPress
+* Java / Kotlin
+* HTML / CSS / JS
+* GitHub / GitLab
+* Python / ML
+
+
 <details>
   <summary>Show projects</summary>
 
@@ -34,23 +56,3 @@ My name is Ilia, i'm beginner web developer. I’m currently looking for a job.
 - Web site for working with telegram groups, using Perl - **[WebTelegramBot](https://github.com/smylebifa/WebTelegramBot)** 
 
 </details>
-
-### Technical Stack:
-* C# / ASP.NET MVC / WEB API / Windows Forms / WPF
-* 1C УТ / 1C Бухгалтерия / 1C УНФ
-* PostgreSQL, MySQL, MS SQL 
-* PHP / Laravel / CMS WordPress
-* Java / Kotlin
-* HTML / CSS / JS
-* GitHub / GitLab
-* Python / ML
-
-### Github activity:
-
-<p>
-   <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
-  
-   <a href="https://github.com/smylebifa/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight"/></a>
-</p>
