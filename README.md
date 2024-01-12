@@ -44,3 +44,9 @@ My website - [smyleibfa](https://smylebifa.github.io)
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="smylebifa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&langs_count=4&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></a>
 
 </details>
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/smylebifa/github-profile-views-counter">
+       <img width="175px" src="https://smylebifa/ghpvc/?username=smylebifa&color=DE002D">
+   </a>
+</div>
