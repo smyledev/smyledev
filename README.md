@@ -1,12 +1,10 @@
 ### Hi and welcome to my profile 👋 
 
-My name is Ilia, i'm beginner web developer. I’m currently learning and looking for a job.
+My name is Ilia, i'm beginner web developer. I’m currently looking for a job.
 
 <div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
-
-My website - [smyleibfa](https://smylebifa.github.io)
 
 <details>
   <summary>Show projects</summary>
