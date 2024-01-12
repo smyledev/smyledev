@@ -15,7 +15,7 @@ My name is ilia, i'm beginner web developer :computer:
        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight&langs_count=14"/></a>
 
    <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true">
-       <img height=320 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
+       <img height=200 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
 
 <br>
 
