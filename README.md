@@ -1,6 +1,8 @@
 ### Hi and welcome to my profile 👋 
 
-My name is Ilia, i am beginner web developer
+My name is Ilia, i'm beginner web developer
+
+I’m currently learning and looking for a job
 
 My website - [smyleibfa](https://smylebifa.github.io)
 
