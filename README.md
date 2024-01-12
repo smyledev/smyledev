@@ -45,11 +45,11 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 ### Github activity:
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true">
+<p>
+   <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true" width="50%">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
   
-   <a href="https://github.com/smylebifa/github-readme-stats">
+   <a href="https://github.com/smylebifa/github-readme-stats" width="50%">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight"/></a>
 </p>
 
