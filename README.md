@@ -30,14 +30,8 @@ My name is ilia, i'm beginner web developer :computer:
 * Python / ML
 
 
-<div align="center">
-  <a href="https://github-readme-tech-stack.vercel.app">
-<!--     <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technical+Stack&align=left&titleAlign=left&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=csharp%2Ccsharp%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bprettier%2Cprettier%2Cauto%3B&line2=next.js%2Cnext.js%2Cffffff%3Btypescript%2Ctypescript%2Cauto%3Bstorybook%2Cstorybook%2Cauto%3B" alt="Tech Stack" /> -->
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&line1=csharp%2CC%23%2Ce709a8%3BJS%2CJS%2C5924e7%3BPHP%2CPHP%2Ce1f229%3Bpython%2CPython%2C51e717%3BJava%2CJava%2Ccae21e%3B)
 
-        <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technical+Stack&align=left&titleAlign=left&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=csharp%2Ccsharp%2Cauto%3B1C%2C1C%2Cauto%3Bpython%2Cpython%2Cauto%3B&line2=java%2Cjava%2Cffffff%3Bc++%2Cc++%2Cauto%3B" alt="Tech Stack" />
-        
-  </a>
-</div>
 
 <details open>
   <summary><h3>My projects</h3></summary>
