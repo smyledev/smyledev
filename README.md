@@ -33,6 +33,8 @@ My website - [smyleibfa](https://smylebifa.github.io)
 
 </details>
 
+![](https://komarev.com/ghpvc/?username=smylebifa)
+
 ### Technical Stack:
 * C# / ASP.NET MVC / WEB API / Windows Forms / WPF
 * 1C УТ / 1C Бухгалтерия / 1C УНФ
@@ -52,5 +54,3 @@ My website - [smyleibfa](https://smylebifa.github.io)
    <a href="https://github.com/smylebifa/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight"/></a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=smylebifa)
