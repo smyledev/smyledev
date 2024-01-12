@@ -5,7 +5,7 @@ My name is Ilia, i'm beginner web developer
 I’m currently learning and looking for a job
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 
 My website - [smyleibfa](https://smylebifa.github.io)
