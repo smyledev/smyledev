@@ -53,4 +53,4 @@ My website - [smyleibfa](https://smylebifa.github.io)
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight"/></a>
 </p>
 
-<img src="https://smylebifa.com/ghpvc/?username=smylebifa&style=flat-square&color=blue" alt=""/>
+![](https://komarev.com/ghpvc/?username=smylebifa)
