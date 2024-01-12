@@ -53,8 +53,4 @@ My website - [smyleibfa](https://smylebifa.github.io)
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight"/></a>
 </p>
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/smylebifa/github-profile-views-counter">
-       <img width="175px" src="https://smylebifa/ghpvc/?username=smylebifa&color=DE002D">
-   </a>
-</div>
+<img src="https://smylebifa.com/ghpvc/?username=smylebifa&style=flat-square&color=blue" alt=""/>
