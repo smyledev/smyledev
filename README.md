@@ -46,10 +46,10 @@ My website - [smyleibfa](https://smylebifa.github.io)
 ### Github activity:
 
 <p>
-   <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true" width="50%">
+   <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
   
-   <a href="https://github.com/smylebifa/github-readme-stats" width="50%">
+   <a href="https://github.com/smylebifa/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight"/></a>
 </p>
 
