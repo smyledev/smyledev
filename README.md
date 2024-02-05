@@ -4,7 +4,7 @@ My name is ilia, i'm beginner web developer :computer:
 
 <p>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineHeight=5&lineCount=6&line1=CSharp%2CCSharp%2Cf200ff%3Basp%2CASP.NET+MVC%2Cc127df%3BAPI%2CWeb+API%2Cb71de7%3BWPF%2CWPF%2C9e23cd%3B&line2=OneC%2C1C%2Cf3ff00%3BOneC%2C1C+%D0%A3%D0%A2%2Cfcff00%3BOneC%2C1C+%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F%2Ce9ff00%3BoneC%2C1C+%D0%A3%D0%9D%D0%A4%2Cf3ff00%3B&line3=PostgreSQL%2CPostgreSQL%2Ca500ff%3BMySQL%2CMySQL%2C810de6%3BMSSQL+%2CMS+SQL+%2C4f00ff%3B&line4=PHP%2CPHP%2C1600ff%3BLaravel%2CLaravel%2C0040ff%3BWordPress%2CWordPress%2C002dff%3BJS%2CJS%2C004aff%3B&line5=GitHub%2CGitHub%2C353535%3BGitLab%2CGitLab%2C5f6360%3B&line6=Python%2CPython%2C34ff00%3BJava%2CJava%2C00fffe%3Bcplusplus%2CC%2B%2B%2Cff0000%3Bkotlin%2CKotlin%2Cff5f00%3B" width="50%"/>
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=5&line1=CSHARP%2CCSHARP%2C9910ce%3BASP.NET+MVC%2CASP.NET+MVC%2C4b2323%3BWEB+API%2CWEB+API%2C451a1a%3BWPF%2CWPF%2Cd52f2f%3BWINFORMS%2CWINFORMS%2C801a1a%3B&line2=HTML5%2CHTML5%2Ce54603%3BCSS3%2CCSS3%2C2016e6%3BJS%2CJS%2Cdb6f0a%3BNODE%2CNODE%2Cf38105%3BVUE%2CVUE%2Ceb920d%3BREACT%2CREACT%2C06eea8%3B&line3=POSTGRESQL%2CPOSTGRESQL%2C19cbc4%3BMYSQL%2CMYSQL%2C079ee9%3BMS+SQL%2CMS+SQL%2C0fdcd4%3BMongoDB%2CMongoDB%2C0ae469%3B&line4=GITHUB%2CGITHUB%2Cf7f7f7%3BGITLAB%2CGITLAB%2Ce26907%3BAPI%2CAPI%2C43caca%3BDocker%2CDocker%2C1452d2%3B&line5=1C%2C1C%2Ce57802%3BSQL%2CSQL%2Cffffff%3B" width="50%"/>
 
 </p>
 
