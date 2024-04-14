@@ -1,6 +1,6 @@
 ### Hi and welcome to my profile 👋 
 
-My name is ilia, i'm beginner web developer :computer: 
+My name is ilia, i'm software developer :computer: 
 
 <p>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
