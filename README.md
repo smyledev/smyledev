@@ -8,43 +8,43 @@ My name is ilia, i'm software developer :computer:
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=smylebifa"/>
+<img src="https://komarev.com/ghpvc/?username=smyledev"/>
     
 <hr>
 
 ### Github activity
 
-   <a href="https://github.com/smylebifa/github-readme-stats">
-       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylebifa&layout=compact&theme=tokyonight&langs_count=14"/></a>
+   <a href="https://github.com/smyledev/github-readme-stats">
+       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smyledev&layout=compact&theme=tokyonight&langs_count=14"/></a>
 
-   <a href="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true">
-       <img height=200 src="https://github-readme-stats.vercel.app/api?username=smylebifa&show_icons=true&count_private=true&theme=tokyonight"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=smyledev&show_icons=true&count_private=true">
+       <img height=200 src="https://github-readme-stats.vercel.app/api?username=smyledev&show_icons=true&count_private=true&theme=tokyonight"/></a>
 
 <hr>
 
 <details open>
   <summary><h3>My projects</h3></summary>
 
-- Automated accounting system for a football club (1C) - **[ASFC](https://github.com/smylebifa/Notes1C/tree/main/SolutionsOfTasks/FootballClubSystem)**
+- Automated accounting system for a football club (1C) - **[ASFC](https://github.com/smyledev/Notes1C/tree/main/SolutionsOfTasks/FootballClubSystem)**
 
-- Creating an electronic digital signature, sending by mail and verifying the signature (ASP NET, MVC) - **[DigitalSignature](https://github.com/smylebifa/CreateAndSendSignatureByGmail)**
+- Creating an electronic digital signature, sending by mail and verifying the signature (ASP NET, MVC) - **[DigitalSignature](https://github.com/smyledev/CreateAndSendSignatureByGmail)**
 
-- API for working with exchange rates (ASP NET, Web API) - **[ExchangeRates](https://github.com/smylebifa/ExchangeRates)**
+- API for working with exchange rates (ASP NET, Web API) - **[ExchangeRates](https://github.com/smyledev/ExchangeRates)**
 
-- Web application for automating R&D processes (ASP NET, MVC) - **[RD2](https://github.com/smylebifa/RD2)** 
+- Web application for automating R&D processes (ASP NET, MVC) - **[RD2](https://github.com/smyledev/RD2)** 
 
-- Web site created as a Decision Support System for scrintific centers and researchers (CMS WordPress, JS) - **[SNTR](https://github.com/smylebifa/SNTR)** 
+- Web site created as a Decision Support System for scrintific centers and researchers (CMS WordPress, JS) - **[SNTR](https://github.com/smyledev/SNTR)** 
 
-- Web application for tracking user purchases (ASP NET, MVC) - **[ProductsAccounting](https://github.com/smylebifa/ProductsAccounting)** and API (YML) - **[ProductAPI](https://github.com/smylebifa/ProductAPI)**  
+- Web application for tracking user purchases (ASP NET, MVC) - **[ProductsAccounting](https://github.com/smyledev/ProductsAccounting)** and API (YML) - **[ProductAPI](https://github.com/smyledev/ProductAPI)**  
   
-- Android application - cryptography test (Kotlin) - **[CryptQuiz](https://github.com/smylebifa/CryptQuiz)**
+- Android application - cryptography test (Kotlin) - **[CryptQuiz](https://github.com/smyledev/CryptQuiz)**
 
-- Application for differentiating user rights and storing encrypted data (Qt, C++) - **[SecInf](https://github.com/smylebifa/SecInf2)**
+- Application for differentiating user rights and storing encrypted data (Qt, C++) - **[SecInf](https://github.com/smyledev/SecInf2)**
 
-- Decisions of Web (HTML, CSS, JS) - **[Web](https://github.com/smylebifa/SolutionsWeb)**
+- Decisions of Web (HTML, CSS, JS) - **[Web](https://github.com/smyledev/SolutionsWeb)**
 
-- Configurations, external processing, 1C manual - **[1C](https://github.com/smylebifa/Notes1C)**
+- Configurations, external processing, 1C manual - **[1C](https://github.com/smyledev/Notes1C)**
 
-- Web site for working with telegram groups, using Perl - **[WebTelegramBot](https://github.com/smylebifa/WebTelegramBot)** 
+- Web site for working with telegram groups, using Perl - **[WebTelegramBot](https://github.com/smyledev/WebTelegramBot)** 
 
 </details>
