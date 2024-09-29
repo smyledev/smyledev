@@ -1,4 +1,4 @@
-### Hi and welcome to my profile 👋 
+### Welcome to my profile 👋 
 
 My name is ilia, i'm software developer :computer: 
 
