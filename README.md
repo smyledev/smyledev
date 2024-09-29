@@ -1,4 +1,4 @@
-<h4>Welcome to my profile 👋</h4>
+<h3>Welcome to my profile 👋</h3>
 
 <p>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
@@ -9,7 +9,7 @@
 <hr>
 
 <details open>
-  <summary>My projects</summary>
+  <summary><strong>My projects</strong></summary>
 
 - Automated accounting system for a football club (1C) - **[ASFC](https://github.com/smyledev/Notes1C/tree/main/SolutionsOfTasks/FootballClubSystem)**
 
