@@ -2,21 +2,9 @@
 
 <p>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?fontSize=14&lineCount=4&theme=dracula&line1=python%2Cpython%2C300dfe%3Bdjango%2Cdjango%2Cba1b3a%3BML%2CML%2C6ffddd%3BFASTAPI%2CFASTAPI%2C20a6b7%3B&line2=Csharp%2CCsharp%2C6fe5fa%3BASP.NET%2CASP.NET%2Cc49de0%3BWEB+API%2CWEB+API%2Cbb2ea6%3BWPF%2CWPF%2C1bfd92%3BWINFORMS%2CWINFORMS%2Cfcce01%3B&line3=HTML5%2CHTML5%2Ccd65c8%3BCSS3%2CCSS3%2C46c7e5%3BJS%2CJS%2Ceb8a72%3BNODE%2CNODE%2C7e1ab3%3BVUE%2CVUE%2Cfebccb%3BREACT%2CREACT%2C449787%3B&line4=OneC%2C1C%2Cd3f03c%3BMYSQL%2CMYSQL%2C254bbd%3BPOSTGRESQL%2CPOSTGRESQL%2C2992b0%3BMONGODB%2CMONGODB%2C24e068%3B" alt="My Tech Stack" width="50%"/>
-
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=smyledev"/>
-    
-<hr>
-
-### Github activity
-
-   <a href="https://github.com/smyledev/github-readme-stats">
-       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smyledev&layout=compact&theme=tokyonight&langs_count=14"/></a>
-
-   <a href="https://github-readme-stats.vercel.app/api?username=smyledev&show_icons=true&count_private=true">
-       <img height=200 src="https://github-readme-stats.vercel.app/api?username=smyledev&show_icons=true&count_private=true&theme=tokyonight"/></a>
 
 <hr>
 
@@ -46,3 +34,5 @@
 - Web site for working with telegram groups, using Perl - **[WebTelegramBot](https://github.com/smyledev/WebTelegramBot)** 
 
 </details>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?fontSize=14&lineCount=4&theme=dracula&line1=python%2Cpython%2C300dfe%3Bdjango%2Cdjango%2Cba1b3a%3BML%2CML%2C6ffddd%3BFASTAPI%2CFASTAPI%2C20a6b7%3B&line2=Csharp%2CCsharp%2C6fe5fa%3BASP.NET%2CASP.NET%2Cc49de0%3BWEB+API%2CWEB+API%2Cbb2ea6%3BWPF%2CWPF%2C1bfd92%3BWINFORMS%2CWINFORMS%2Cfcce01%3B&line3=HTML5%2CHTML5%2Ccd65c8%3BCSS3%2CCSS3%2C46c7e5%3BJS%2CJS%2Ceb8a72%3BNODE%2CNODE%2C7e1ab3%3BVUE%2CVUE%2Cfebccb%3BREACT%2CREACT%2C449787%3B&line4=OneC%2C1C%2Cd3f03c%3BMYSQL%2CMYSQL%2C254bbd%3BPOSTGRESQL%2CPOSTGRESQL%2C2992b0%3BMONGODB%2CMONGODB%2C24e068%3B" alt="My Tech Stack" width="50%"/>
