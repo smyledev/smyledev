@@ -13,13 +13,13 @@
 
 - Automated accounting system for a football club (1C) - **[ASFC](https://github.com/smyledev/Notes1C/tree/main/SolutionsOfTasks/FootballClubSystem)**
 
-- Creating an electronic digital signature, sending by mail and verifying the signature (ASP NET, MVC) - **[DigitalSignature](https://github.com/smyledev/CreateAndSendSignatureByGmail)**
+- Creating an electronic digital signature, sending by mail and verifying the signature (ASP NET, MVC) - **[DigitalSignature](https://github.com/smyledev/CSharp/tree/main/CreateAndSendSignatureByGmail)**
 
-- API for working with exchange rates (ASP NET, Web API) - **[ExchangeRates](https://github.com/smyledev/ExchangeRates)**
+- API for working with exchange rates (ASP NET, Web API) - **[ExchangeRates](https://github.com/smyledev/CSharp/tree/main/ExchangeRates)**
 
 - Web application for automating R&D processes (ASP NET, MVC) - **[RD2](https://github.com/smyledev/RD2)** 
 
-- Web site created as a Decision Support System for scrintific centers and researchers (CMS WordPress, JS) - **[SNTR](https://github.com/smyledev/SNTR)** 
+- Web site created as a Decision Support System for scrintific centers and researchers (CMS WordPress, JS) - **[SNTR](https://github.com/smyledev/PHP/tree/main/SNTR)** 
 
 - Web application for tracking user purchases (ASP NET, MVC) - **[ProductsAccounting](https://github.com/smyledev/ProductsAccounting)** and API (YML) - **[ProductAPI](https://github.com/smyledev/ProductAPI)**  
   
