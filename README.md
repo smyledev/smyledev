@@ -27,7 +27,7 @@
 
 - Application for differentiating user rights and storing encrypted data (Qt, C++) - **[SecInf](https://github.com/smyledev/SecInf2)**
 
-- Decisions of Web (HTML, CSS, JS) - **[Web](https://github.com/smyledev/SolutionsWeb)**
+- Decisions of Web (HTML, CSS, JS) - **[HTML-CSS](https://github.com/smyledev/HTML-CSS)**, **[JS](https://github.com/smyledev/JS)**
 
 - Configurations, external processing, 1C manual - **[1C](https://github.com/smyledev/Notes1C)**
 
